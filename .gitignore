@@ -2,3 +2,4 @@ add_one.so
 square.so
 .vscode/tasks.json
 add_one.o
+*.o
